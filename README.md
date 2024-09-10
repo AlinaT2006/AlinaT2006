@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlinaT2006
 - 👀 I’m interested in web-programming
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning HTML,CSS
 - 💞️ I’m looking to collaborate on many projects
 
 
